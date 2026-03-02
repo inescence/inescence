@@ -1,5 +1,5 @@
 ## Hi there! Welcome to my page
-![Header](https://github.com/inescence/inescence/blob/main/QA.jpg)
+![Header]
 
 ## I'm Inna - QA Automation Engineer (Python)
 
