@@ -1,6 +1,6 @@
-## Hi there! Welcome to my page!
+## Hi there! Welcome to my page &#127881;
 
-## I'm Inna - QA Automation Engineer (Python)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=9A56F7&center=true&width=435&lines=I'm+Inna+-+QA+Automation+Engineer)](https://git.io/typing-svg)
 
 # My Profile features CV and projects https://inescence.github.io/CV_profile/
 
