@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my page &#127881;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Times+New+Roman&weight=900&size=22&duration=3500&pause=1000&color=FF6347&center=true&width=435&lines=I'm+Inna+-+QA+Automation+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=FF6347&width=435&lines=I'm+Inna+-+QA+Automation+Engineer)](https://git.io/typing-svg)
 
 # My Profile features CV and projects https://inescence.github.io/CV_profile/
 
